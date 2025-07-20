@@ -29,6 +29,7 @@ body{
     height:18vmin;
     width:18vmin;
     border-radius:1rem ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     border: none;
     box-shadow: 0.3rem 0.3rem 0.3rem rgba(25, 192, 234, 0.872);
     font-size: 8vmin;
